@@ -4,7 +4,7 @@ A Mickey Mouse themed task manager built with HTML, CSS, and JavaScript — beca
 
 ## Preview
 
-![To-Do List Preview](add-your-screenshot-filename-here.png)
+![To-Do List Preview](preview.png)
 
 ## What I focused on
 
